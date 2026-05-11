@@ -17,7 +17,7 @@ The system follows a modular RAG architecture:
 
 Ingestion: Processes exercise metadata (ID, Muscle Groups, Equipment, and Instructions).
 
-Vectorization: Text data is embedded into 768-dimensional vectors using all-MiniLM-L6-v2.
+Vectorization: Text data is embedded into 364-dimensional vectors using all-MiniLM-L6-v2.
 
 Retrieval: A Top-K similarity search identifies the most relevant exercise instructions based on the user query.
 
