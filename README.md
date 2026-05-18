@@ -1,3 +1,4 @@
+<img width="1367" height="809" alt="Screenshot 2026-05-18 at 2 20 58 PM" src="https://github.com/user-attachments/assets/16a4a731-cd33-444f-8127-a227fc3bdbf3" />
 # RAG-Based Fitness-Assistant
 A Retrieval-Augmented Generation (RAG) system designed to provide precise, context-aware exercise instructions and fitness advice. This project demonstrates the integration of a local LLM (Ollama) with a vector database to mitigate hallucinations and provide domain-specific expertise without retraining the model.
 
